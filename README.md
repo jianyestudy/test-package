@@ -11,8 +11,8 @@
 ## 使用(參考demo.php)
 - 字體安裝
 ```
-php load_font.php 'SimHei' SimHei.ttf
-php load_font.php 'Simsun' Simsun.ttf
+php vendor/korol666/sf-hk-express-api load_font.php 'SimHei' SimHei.ttf
+php vendor/korol666/sf-hk-express-api load_font.php 'Simsun' Simsun.ttf
 ```
 
 - 創建訂單和打印標籤
