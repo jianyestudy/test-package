@@ -11,7 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "^6.5.5",
         "dompdf/dompdf": "dev-master",
         "picqer/php-barcode-generator": "dev-main",
         "chillerlan/php-qrcode": "^3.4"
