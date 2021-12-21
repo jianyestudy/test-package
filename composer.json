@@ -1,14 +1,13 @@
 {
     "name": "korol666/sf-hk-express-api",
-    "description": "sf-hk-express API php version.",
+    "description": "SFHK API PHP",
     "authors": [
         {
-            "name": "korol",
-            "email": "korolgit@gmail.com",
-            "role": "Developer"
+            "name": "Korol",
+            "email": "korolgit@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "license": "MIT",
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.5.5|^7.0.1",
@@ -19,11 +18,10 @@
     "require-dev": {
         "phpunit/phpunit": "^7.0"
     },
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "korol666\\SFHKAPI\\": "src/"
+            "Korol666\\SfHkExpressApi\\": "src/"
         }
-    },
-    "license": "MIT"
-
+    }
 }
