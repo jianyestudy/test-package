@@ -6,7 +6,7 @@
     System and Data Integration Development Center(18.9.5)
 
 ## 安裝
-1. composer
+1. composer require korol666/sf-hk-express-api
 
 ## 使用(參考demo.php)
 - 字體安裝
