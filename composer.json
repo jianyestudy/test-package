@@ -16,6 +16,9 @@
         "picqer/php-barcode-generator": "dev-main",
         "chillerlan/php-qrcode": "^3.4"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
     "autoload": {
         "psr-4": {
             "korol666\\SFHKAPI\\": "src/"
