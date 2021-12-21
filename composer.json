@@ -1,0 +1,26 @@
+{
+    "name": "korol666/sf-hk-express-api",
+    "description": "sf-hk-express API php version.",
+    "authors": [
+        {
+            "name": "korol",
+            "email": "",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "~6.0",
+        "dompdf/dompdf": "dev-master",
+        "picqer/php-barcode-generator": "dev-main",
+        "chillerlan/php-qrcode": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "korol666\\SFHKAPI\\": "src/"
+        }
+    },
+    "license": "MIT"
+
+}
