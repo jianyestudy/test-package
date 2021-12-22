@@ -72,7 +72,7 @@ echo $label;
 
 // 路由追蹤
 $tracking  = new RouteService($config);
-$trackingData = $tracking->Routes("SF123456789");
+$trackingData = $tracking->Routes("SF1234567890");
 //print_r($trackingData);
 
 
